@@ -31,3 +31,7 @@ Users can add and delete tasks. The app uses React functional components and sta
    npm run dev
 4. Open browser at:
    http://localhost:5173
+
+## Screenshot
+
+![To-Do App Screenshot](screenshot/screenshot.png)
