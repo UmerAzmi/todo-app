@@ -35,3 +35,5 @@ Users can add and delete tasks. The app uses React functional components and sta
 ## Screenshot
 
 ![To-Do App Screenshot](screenshot/screenshot.png)
+
+![To-Do App Screenshot](screenshot/app.png)
