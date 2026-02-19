@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple To-Do List application built using React and Vite.  
+A To-Do List application built using React and Vite.  
 Users can add and delete tasks. The app uses React functional components and state management.
 
 ## Features
